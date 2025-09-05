@@ -12,6 +12,7 @@ export default function Home() {
       <SignedOut>
         <SignInButton />
       </SignedOut>
+      
     </>
   );
 }
